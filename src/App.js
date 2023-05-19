@@ -18,8 +18,6 @@ import Support from "./ComponentsCollection/Pages/Support/Support"
 import Search from "./ComponentsCollection/Pages/Search/Search"
 import Cart from "./ComponentsCollection/Pages/Cart/Cart"
 
-// AIzaSyBF1cnGW8h9oaYP2WWL6ZSdax-vVG71gjQ
-// https://www.googleapis.com/youtube/v3/search?key=AIzaSyBF1cnGW8h9oaYP2WWL6ZSdax-vVG71gjQ&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=9
 function App() {
   return (
     <>
